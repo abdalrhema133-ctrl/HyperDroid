@@ -60,4 +60,5 @@ This policy is effective as of 2024-05-26
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at binary.metaverse@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at binaryplayServicesVersion": "26.42.16 (190400-692182049)",
+      "googlePlayStoreVersion": "43.2.14-29 [0] [PR] 689021239.metaverse@gmail.com.
